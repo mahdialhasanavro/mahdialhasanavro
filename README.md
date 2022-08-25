@@ -17,4 +17,4 @@ Currently, I'm working as a Junior Research Fellow at Bangladesh Space Research 
 - https://aust.academia.edu/MahdiHasan
 - https://orcid.org/0000-0001-6679-2918
 
-
+![Mahdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahdialhasanavro&theme=dark&show_icons=true)
