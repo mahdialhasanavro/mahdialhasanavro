@@ -1,6 +1,5 @@
-### Hi there,👋
+### Hi there, I'm MAHDI HASAN👋
 
-I'm MAHDI HASAN
 
 📚I'm studying Bachelor of Science in the Department of Electrical and Electronic Engineering at Ahsanullah University of Science and Technology and Associate of Science online in Computer Science at the Univesity of the People also doing a course on Basics of RS, GIS, and Global Navigation Satellite System online at Indian Institute of Remote Sensing. 
 
@@ -17,4 +16,7 @@ Currently, I'm working as a Junior Research Fellow at Bangladesh Space Research 
 - https://aust.academia.edu/MahdiHasan
 - https://orcid.org/0000-0001-6679-2918
 
-![Mahdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahdialhasanavro&theme=dark&show_icons=true)
+[![Mahdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahdialhasanavro&theme=dark&show_icons=true)
+
+
+
