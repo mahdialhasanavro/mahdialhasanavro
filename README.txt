@@ -10,3 +10,8 @@ I have completed Microsoft Virtual Internship Program 2021.
 I'm doing Sounding Rocket Project as a  Team Lead and also did some Arduino based projects. 
 I'm learning Matlab Simulink and Python Language.  
 
+Cheakout My Profile-
+https://www.linkedin.com/in/mahdi-hasan-eee-aust
+https://www.researchgate.net/profile/Mahdi-Hasan-9
+https://aust.academia.edu/MahdiHasan
+https://orcid.org/0000-0001-6679-2918
