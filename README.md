@@ -1,10 +1,10 @@
 ### Hi there, I'm MAHDI HASAN👋 
 
-📚I'm studying Bachelor of Science in the Department of Electrical and Electronic Engineering at Ahsanullah University of Science and Technology and Associate of Science online in Computer Science at the Univesity of the People also doing an academic long-course on Basics of RS, GIS, and Global Navigation Satellite System (online) at Indian Institute of Remote Sensing under Indian Space Research Organization (ISRO). 
+📚I am a recent graduate student in Electrical and Electronic Engineering (STEM) from Ahsanullah University of Science and Technology. In addition, I have completed an academic basics course on Remote Sensing, GIS, and Global Navigation Satellite Systems at the esteemed Indian Institute of Remote Sensing, ISRO. I have also completed a Diploma in Mechatronics Engineering (Online) on the Advance Learning Interactive System Online. I held a position on the Project Development Team at the Satellite Communication Laboratory, AUST worked as a UG Research Assistant for the AUST Nanosatellite Program (AUSTSAT).
 
-🔵I'm passionate about Rocket Science and Space Technology. I've also been interested in Space Robotics and Artificial Intelligence Systems. 
-Currently, I'm doing research on Rocket Flight Control System, Autopilot System, and Hybrid Rocket Engine.<br>
-🔵I have completed Microsoft Virtual Internship Program 2021.<br>
+🔵My passion lies in the fields of Rocket Science and Space Robotics Technology, with a particular interest in Space Exploration and Artificial Intelligence Systems.
+  Currently, I'm doing research on Nanosatellite Development, Avionics Systems, and Sounding Model Rcoekt.<br>
+🔵I have completed the Microsoft Virtual Internship Program 2021.<br>
 
 🔵I'm doing Sounding Rocket Project as a Team Lead and also did some Arduino based projects. <br>
 🔵I'm learning Matlab Simulink and Python Language.<br>
