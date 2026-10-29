@@ -1,6 +1,6 @@
 ### Hi there, I'm MAHDI HASAN👋 
 
-### PhD Student | Space Systems & Microelectronics Reliability Enthusiast
+### PhD Student | Space Systems & Microelectronics Reliability
 
 🎓 I am currently pursuing a **Ph.D. in Intelligent Systems Engineering** at **Indiana University Bloomington, USA**, where I work as a Graduate Research Assistant at the **HERMES Lab** under **Center for Reliable and Trusted Electronics**. My research focuses on **radiation effects in microelectronics, pulsed-laser single-event effects (SEE), and semiconductor reliability in extreme environments**.
 
