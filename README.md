@@ -14,7 +14,7 @@ My research interests span **Spacecraft Systems Engineering, CubeSat Development
 
 🔵 **PhD Research | Indiana University Bloomington**
 
-As a researcher at the HERMES Laboratory, my work involves:
+As a research assistant at the HERMES Laboratory, my work involves:
 
 - **Single-Event Effects (SEE):** Radiation-induced disturbances in semiconductor devices and electronic circuits.
 - **Pulsed-Laser SEE Testing:** Laser-based characterization of microelectronics under simulated radiation-induced conditions.
