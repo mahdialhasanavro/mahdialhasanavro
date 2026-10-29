@@ -63,11 +63,8 @@ My long-term goal is to bridge **microelectronics radiation-effects research and
 ## Connect With Me
 
 🔗 **LinkedIn:** https://www.linkedin.com/in/mahdi-hasan-ise-iu
-
 🔗 **ResearchGate:** https://www.researchgate.net/profile/Mahdi-Hasan-9
-
 🔗 **Academia.edu:** https://aust.academia.edu/MahdiHasan
-
 🔗 **ORCID:** https://orcid.org/0000-0001-6679-2918
 
 
