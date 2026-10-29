@@ -47,7 +47,7 @@ Conducted research on **environmental monitoring of the Sundarbans** using satel
 
 - **Programming & Modeling:** Python, MATLAB, Simulink
 - **Electronics & PCB Design:** KiCad, Autodesk EAGLE, LTspice, PSpice
-- **Aerospace Engineering:** SolidWorks, ANSYS, OpenRocket
+- **Aerospace Tools:** Fusion, OpenRocket, GMAT, Freeflayer
 - **Satellite Systems:** CubeSat Architecture, OBC, EPS, ADCS, Avionics, Telemetry
 - **Radiation Effects:** SEE, Pulsed-Laser Testing, Semiconductor Reliability
 - **Remote Sensing & AI:** GIS, Satellite Image Processing, Machine Learning
