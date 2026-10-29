@@ -4,7 +4,7 @@
 
 🎓 I am currently pursuing a **Ph.D. in Intelligent Systems Engineering** at **Indiana University Bloomington, USA**, where I work as a Graduate Research Assistant at the **HERMES Lab** under **Center for Reliable and Trusted Electronics**. My research focuses on **radiation effects in microelectronics, pulsed-laser single-event effects (SEE), and semiconductor reliability in extreme environments**.
 
-I earned my **B.Sc. in Electrical and Electronic Engineering (EEE)** from **Ahsanullah University of Science and Technology (AUST), Bangladesh**. I also completed academic training in **Remote Sensing, GIS, and GNSS** at the **Indian Institute of Remote Sensing (IIRS), ISRO**.
+I earned my **B.Sc. in Electrical and Electronic Engineering (EEE)** from **Ahsanullah University of Science and Technology, Bangladesh**. I also completed academic training in **Remote Sensing, GIS, and GNSS** at the **Indian Institute of Remote Sensing, under ISRO**.
 
 My research interests span **Spacecraft Systems Engineering, CubeSat Development, Radiation-Tolerant Electronics, Space Robotics, and Intelligent Space Systems**.
 
