@@ -1,6 +1,6 @@
 ### Hi there, I'm MAHDI HASAN👋 
 
-### 🚀 PhD Student | Space Systems & Microelectronics Reliability Enthusiast
+### PhD Student | Space Systems & Microelectronics Reliability Enthusiast
 
 🎓 I am currently pursuing a **Ph.D. in Intelligent Systems Engineering ** at **Indiana University Bloomington, USA**, where I work as a **Graduate Research Assistant at the HERMES Laboratory (Harsh Environment Reliability of Microelectronics and Emerging Semiconductors)**. My research focuses on **radiation effects in microelectronics, pulsed-laser single-event effects (SEE), and semiconductor reliability in extreme environments**.
 
@@ -10,7 +10,7 @@ My research interests span **Spacecraft Systems Engineering, CubeSat Development
 
 ---
 
-## 🔬 Current Research Activities
+## Current Research Activities
 
 🔵 **PhD Research | Indiana University Bloomington**
 
@@ -27,7 +27,7 @@ Alongside my doctoral research, I am interested in applying radiation-effects re
 
 ---
 
-## 🛰️ Previous Research Experience
+## Previous Research Experience
 
 🔵 **AUSTSAT Nanosatellite Development | Research Assistant & Team Lead**
 
@@ -43,7 +43,7 @@ Conducted research on **environmental monitoring of the Sundarbans** using satel
 
 ---
 
-## 💻 Technical Skills & Research Tools
+## Technical Skills & Research Tools
 
 - **Programming & Modeling:** Python, MATLAB, Simulink
 - **Electronics & PCB Design:** KiCad, Autodesk EAGLE, LTspice, PSpice
@@ -54,13 +54,13 @@ Conducted research on **environmental monitoring of the Sundarbans** using satel
 
 ---
 
-## 🌌 Research Vision & Future Goals
+## Research Vision & Future Goals
 
 My long-term goal is to bridge **microelectronics radiation-effects research and spacecraft systems engineering**, contributing to the development of **radiation-tolerant CubeSat architectures, intelligent spacecraft avionics, autonomous satellite systems, and fault-tolerant electronics** for future space missions.
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 🔗 **LinkedIn:** https://www.linkedin.com/in/mahdi-hasan-ise-iu
 
